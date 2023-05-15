@@ -1,1 +1,3 @@
 É importante conhecer as funções do Git.
+
+É preciso cuidado no commit.
