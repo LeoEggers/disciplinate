@@ -1,1 +1,3 @@
 É importante conhecer as funções do Git.
+
+fazendo mais alterações.

@@ -2,3 +2,5 @@ Estamos trabalhando para melhorar os conceitos.
 nova frase: Estamos estudando para melhorar os conceitos.
 
 compreendi o funcionamento do push.
+
+fazendo novas alterações.
